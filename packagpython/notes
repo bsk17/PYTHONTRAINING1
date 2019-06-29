@@ -1,0 +1,23 @@
+INTRODUCTION Modules are python files which contains various functions
+
+math module contains all the mathematical functions required for
+random module to generate all the random m=number concepts like OTP
+datetime package contains 3 modules date , datetime, time
+
+
+we created a program named shop we calculates the total of sales
+we created a tic tac toe game using exception handling
+
+
+we will use first open function
+open("FILE_NAME", "MODE")  this function wil return a file we have to store it in a variable
+modes can be :- r(read), w(write), a(append), w+ (read and write), r+(read and write), a+(append and read)
+w+ wil create the file if not present, r+ will not create a file implicitly
+wb, rb, ab, wb+, rb+, ab+ (these are used for binary files which can be any tye not readable by human)
+
+read() - read whole file at once
+readline() - read a single line
+readlines() - create array of lines
+
+write() -
+writeline() -
