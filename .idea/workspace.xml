@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c547d26a-766a-43b0-938a-b96358a2ecb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/GUI/tree-silhouette.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/guidemo2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GUI/guidemo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/GUI/guidemo1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,11 +32,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/GUI/guidemo1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+            <state relative-caret-position="456">
+              <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GUI/guidemo2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -78,6 +90,7 @@
         <option value="$PROJECT_DIR$/databasepack/dbClientdemo.py" />
         <option value="$PROJECT_DIR$/databasepack/collegelibrarypanel.py" />
         <option value="$PROJECT_DIR$/GUI/guidemo1.py" />
+        <option value="$PROJECT_DIR$/GUI/guidemo2.py" />
       </list>
     </option>
   </component>
@@ -139,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.guidemo1">
+  <component name="RunManager" selected="Python.guidemo2">
     <configuration name="collegelibrarypanel" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PYTHONTRAINING" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -206,28 +219,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="filehandling2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PYTHONTRAINING" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/packagpython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/packagpython/filehandling2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="guidemo1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PYTHONTRAINING" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -250,13 +241,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="guidemo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PYTHONTRAINING" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI/guidemo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.guidemo2" />
         <item itemvalue="Python.guidemo1" />
         <item itemvalue="Python.collegelibrarypanel" />
         <item itemvalue="Python.dbserverdemo" />
         <item itemvalue="Python.dbClientdemo" />
-        <item itemvalue="Python.filehandling2" />
       </list>
     </recent_temporary>
   </component>
@@ -288,12 +301,12 @@
       <workItem from="1561710483089" duration="30000" />
       <workItem from="1561717898284" duration="7171000" />
       <workItem from="1561789437461" duration="303000" />
-      <workItem from="1561804725843" duration="1322000" />
+      <workItem from="1561804725843" duration="3979000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77622000" />
+    <option name="totallyTimeSpent" value="80279000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1376" height="729" extended-state="6" />
@@ -326,16 +339,17 @@
     <option name="version" value="1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PYTHONTRAINING$filehandlingexample.coverage" NAME="filehandlingexample Coverage Results" MODIFIED="1561376088126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packagpython" />
-    <SUITE FILE_PATH="coverage/PYTHONTRAINING$exceptionExample.coverage" NAME="exceptionExample Coverage Results" MODIFIED="1561374237232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
     <SUITE FILE_PATH="coverage/PYTHONTRAINING$filehandling2.coverage" NAME="filehandling2 Coverage Results" MODIFIED="1561633937052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packagpython" />
-    <SUITE FILE_PATH="coverage/PYTHONTRAINING$dbClientdemo.coverage" NAME="dbClientdemo Coverage Results" MODIFIED="1561638837306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/databasepack" />
     <SUITE FILE_PATH="coverage/PYTHONTRAINING$collegelibrarypanel.coverage" NAME="collegelibrarypanel Coverage Results" MODIFIED="1561725042562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/databasepack" />
     <SUITE FILE_PATH="coverage/PYTHONTRAINING$pickledemo.coverage" NAME="pickledemo Coverage Results" MODIFIED="1561521631932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packagpython" />
-    <SUITE FILE_PATH="coverage/PYTHONTRAINING$dbserverdemo.coverage" NAME="dbserverdemo Coverage Results" MODIFIED="1561659180910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/databasepack" />
-    <SUITE FILE_PATH="coverage/PYTHONTRAINING$shop.coverage" NAME="shop Coverage Results" MODIFIED="1561347000237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
     <SUITE FILE_PATH="coverage/PYTHONTRAINING$tictactoe.coverage" NAME="tictactoe Coverage Results" MODIFIED="1561366041974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
-    <SUITE FILE_PATH="coverage/PYTHONTRAINING$guidemo1.coverage" NAME="guidemo1 Coverage Results" MODIFIED="1561806047589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/PYTHONTRAINING$guidemo1.coverage" NAME="guidemo1 Coverage Results" MODIFIED="1561808707680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/PYTHONTRAINING$filehandlingexample.coverage" NAME="filehandlingexample Coverage Results" MODIFIED="1561376088126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packagpython" />
+    <SUITE FILE_PATH="coverage/PYTHONTRAINING$exceptionExample.coverage" NAME="exceptionExample Coverage Results" MODIFIED="1561374237232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
+    <SUITE FILE_PATH="coverage/PYTHONTRAINING$dbClientdemo.coverage" NAME="dbClientdemo Coverage Results" MODIFIED="1561638837306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/databasepack" />
+    <SUITE FILE_PATH="coverage/PYTHONTRAINING$dbserverdemo.coverage" NAME="dbserverdemo Coverage Results" MODIFIED="1561659180910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/databasepack" />
+    <SUITE FILE_PATH="coverage/PYTHONTRAINING$guidemo2.coverage" NAME="guidemo2 Coverage Results" MODIFIED="1561808733561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/GUI" />
+    <SUITE FILE_PATH="coverage/PYTHONTRAINING$shop.coverage" NAME="shop Coverage Results" MODIFIED="1561347000237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
     <SUITE FILE_PATH="coverage/PYTHONTRAINING$moduleexample.coverage" NAME="moduleexample Coverage Results" MODIFIED="1561290257657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day4" />
     <SUITE FILE_PATH="coverage/PYTHONTRAINING$regloginfilehandling.coverage" NAME="regloginfilehandling Coverage Results" MODIFIED="1561443575661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/packagpython" />
   </component>
@@ -490,8 +504,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/GUI/guidemo1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+        <state relative-caret-position="456">
+          <caret line="33" column="9" lean-forward="true" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI/guidemo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
         </state>
       </provider>
     </entry>
